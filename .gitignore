@@ -1,0 +1,13 @@
+# Ignore build outputs, logs, and media files
+err.txt
+out.txt
+*.mp4
+*.log
+.DS_Store
+.idea/
+.vscode/
+**/target/
+**/node_modules/
+**/dist/
+cacerts
+maven.cer
