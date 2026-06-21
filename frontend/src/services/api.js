@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'https://edu2job-backend-production.up.railway.app/api',
+  baseURL: 'https://edu2job-backend-production-5dea.up.railway.app/api',
   headers: {
     'Content-Type': 'application/json',
   },
